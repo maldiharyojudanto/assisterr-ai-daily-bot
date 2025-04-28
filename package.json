@@ -1,0 +1,23 @@
+{
+  "name": "assisterr-ai-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "bip39": "^3.1.0",
+    "bs58": "^6.0.0",
+    "chalk": "^5.4.1",
+    "micro-ed25519-hdkey": "^0.1.2",
+    "prompt-sync": "^4.2.0",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}
